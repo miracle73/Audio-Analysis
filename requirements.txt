@@ -1,0 +1,11 @@
+flask
+opencv-python-headless
+numpy
+pillow 
+scipy 
+scikit-image
+librosa==0.10.1
+soundfile==0.12.1
+matplotlib==3.8.0
+SpeechRecognition
+scikit-learn
