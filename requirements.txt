@@ -9,3 +9,4 @@ soundfile==0.12.1
 matplotlib==3.8.0
 SpeechRecognition
 scikit-learn
+gunicorn
